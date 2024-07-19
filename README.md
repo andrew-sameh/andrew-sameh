@@ -6,3 +6,7 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andrew-sameh&theme=rose-pine" alt="GitHub Streak" /></a>
 </p>
+
+<p align="center">
+![gopher dancing](./dancing-gopher.gif)
+</p>
