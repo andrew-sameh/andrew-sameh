@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-![gopher dancing](./dancing-gopher.gif)
+  <img src="./dancing-gopher.gif" alt="gopher dancing" />
 </p>
