@@ -15,7 +15,7 @@
   <img src="./dancing-gopher.gif" alt="gopher dancing" />
 </p>
 
-<p align="center">🌱 I’m currently working on a REST API boilerplate using GoLang and Echo framework</p>    
+<p align="center">🌱 I’m currently working on a REST API boilerplate using GoLang and Echo framework!</p>    
 <p align="center">
   <a href="https://github.com/andrew-sameh/echo-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andrew-sameh&repo=echo-engine" alt="Latest Project" /></a>
 </p>
